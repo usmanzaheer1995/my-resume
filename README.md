@@ -53,7 +53,7 @@ Nothing is silently dropped; add as many jobs as you like.
 
 ## The photo
 
-You can either have a file called `photo.jpg` locally, or an uploaded photo (or both!).
+You can either have a file called `photo.jpg` locally at the root of this project, or an uploaded photo (or both!).
 
 `--photo` in `styles.css` stacks two layers: the Gravatar URL on top, `photo.jpg`
 underneath. If the network is unavailable the top layer fails to paint and the
