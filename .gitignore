@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Generated output — the source of truth is resume.json
+*.pdf

@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "lang": "en",
+    "title": "Usman Zaheer",
+    "stylesheet": "styles.css",
+    "fontUrl": "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400&display=swap"
+  },
+
+  "photo": {
+    "local": "photo.jpg",
+    "remoteUrl": "https://gravatar.com/avatar/e423040b2a76b1351b68cd756436aa5af5131a6a26db6fbb9a3cdbf32b0fbb81?s=500",
+    "gravatarProfile": "https://gravatar.com/usmanzaheer1995"
+  },
+
+  "header": {
+    "name": "Usman Zaheer",
+    "role": "Software Engineer",
+    "summary": "Creative and result-oriented engineer with over 8 years of software development experience. Skills include development, debugging, and deployment of web based solutions. I am confident, responsible, and keen to develop and grow professionally."
+  },
+
+  "contact": [
+    {
+      "type": "email",
+      "icon": "email",
+      "text": "usmanzaheer@proton.me",
+      "href": "mailto:usmanzaheer@proton.me"
+    },
+    {
+      "type": "phone",
+      "icon": "phone",
+      "text": "+49 178 2341980",
+      "href": "tel:+491782341980"
+    },
+    {
+      "type": "location",
+      "icon": "location",
+      "text": "Berlin, Germany",
+      "href": null
+    },
+    {
+      "type": "linkedin",
+      "icon": "linkedin",
+      "text": "linkedin.com/in/usmanzaheer1995",
+      "href": "https://linkedin.com/in/usmanzaheer1995"
+    },
+    {
+      "type": "github",
+      "icon": "github",
+      "text": "github.com/usmanzaheer1995",
+      "href": "https://github.com/usmanzaheer1995"
+    }
+  ],
+
+  "sections": {
+    "workExperience": {
+      "heading": "Work Experience",
+      "icon": "briefcase",
+      "column": "left",
+      "jobs": [
+        {
+          "title": "Fullstack Software Engineer",
+          "company": "Bettermile GmbH",
+          "startDate": "10/2024",
+          "endDate": "Bis jetzt",
+          "location": "Berlin, Germany",
+          "bulletsLabel": "Achievements/Tasks",
+          "bullets": [
+            "Part of the Realtime parcel tracking product.",
+            "Maintaining backend Spring boot services (with Kotlin and Webflux) and the Vue.js frontend application.",
+            "Optimizing CI/CD pipelines resulting in 50% time decrease in production deployments."
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "company": "ToolTime GmbH",
+          "startDate": "09/2021",
+          "endDate": "09/2024",
+          "location": "Berlin, Germany",
+          "bulletsLabel": "Achievements/Tasks",
+          "bullets": [
+            "Shaping the microservice architecture running on AWS to continuously deliver value to our customers.",
+            "Keeping in close collaboration with product and design in international cross-functional teams.",
+            "Switching to batch insertions instead of sequential inserts leading to a 25% decrease to database load."
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "company": "Embrace-IT",
+          "startDate": "01/2020",
+          "endDate": "08/2021",
+          "location": "Islamabad, Pakistan",
+          "bulletsLabel": "Achievements/Tasks",
+          "bullets": [
+            "Developed and implemented security features which led to a shift in how customer services were onboarded.",
+            "Developed, and maintained multiple facets of the product to maintain 100% uptime for internal/external members.",
+            "Shifted deployments of different services of an application to terraform infrastructure for painless deployments."
+          ]
+        },
+        {
+          "title": "Frontend Engineer",
+          "company": "Aurora Solutions",
+          "startDate": "03/2019",
+          "endDate": "12/2019",
+          "location": "Islamabad, Pakistan",
+          "bulletsLabel": "Achievements/Tasks",
+          "bullets": [
+            "Shifted the entire state management of an Angular app to a more robust and scalable solution within a month.",
+            "Updated the codebase to use modern practices and cleanup leading to a 20% increase in performance.",
+            "Led a team for a mobile app that went on to be nominated for the World Summit Award 2020 as Best Digital Solution for Singapore."
+          ]
+        },
+        {
+          "title": "Junior Backend Engineer",
+          "company": "Vizteck Solutions",
+          "startDate": "01/2018",
+          "endDate": "02/2019",
+          "location": "Rawalpindi, Pakistan",
+          "bulletsLabel": "Achievements/Tasks",
+          "bullets": [
+            "Spearhead multiple projects in Node.js to provide scalable and reliable solutions."
+          ]
+        }
+      ]
+    },
+
+    "education": {
+      "heading": "Education",
+      "icon": "graduation",
+      "column": "right",
+      "entries": [
+        {
+          "degree": "BACHELOR OF SCIENCE (Computer Science)",
+          "school": "National University of Computer and Emerging Science",
+          "startDate": "08/2013",
+          "endDate": "12/2017"
+        }
+      ]
+    },
+
+    "skills": {
+      "heading": "Skills",
+      "icon": "cog",
+      "column": "right",
+      "items": [
+        "Kotlin",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Nest.js",
+        "Spring boot",
+        "Spring Webflux",
+        "Gradle",
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "React.js",
+        "Vue.js",
+        "Angular.js",
+        "Jest",
+        "PostgreSQL",
+        "MongoDB",
+        "GraphQL",
+        "JIRA",
+        "Git",
+        "AWS",
+        "Docker",
+        "Terraform"
+      ]
+    },
+
+    "personalProjects": {
+      "heading": "Personal Projects",
+      "icon": "triangle",
+      "column": "right",
+      "projects": [
+        {
+          "name": "Ticketing",
+          "startDate": "07/2020",
+          "endDate": "10/2020",
+          "bullets": [
+            "A ticketing website where a user can buy, sell, and reserve tickets to different events.",
+            "Implemented using microservices architecture in Node.js using TypeScript.",
+            "Docker and kubernetes used for deployment and container orchestration.",
+            "NATS streaming server implemented for communication with different services."
+          ]
+        },
+        {
+          "name": "Usman's Bed & Breakfast",
+          "startDate": "02/2021",
+          "endDate": "03/2021",
+          "bullets": [
+            "A web app where users can book rooms in a small lodging establishment.",
+            "REST API made in Golang with front end also created using Golang templates along with vanilla JavaScript and Bootstrap.",
+            "An admin panel where the admin can view the bookings and add restrictions for room.",
+            "Deployed on a linode server on a custom subdomain."
+          ]
+        }
+      ]
+    },
+
+    "certificates": {
+      "heading": "Certificates",
+      "icon": "medal",
+      "column": "right",
+      "entries": [
+        {
+          "name": "AI programming with Python",
+          "startDate": "01/2021",
+          "endDate": "03/2021",
+          "linkText": "bit.ly/3l4AEQV",
+          "href": "https://bit.ly/3l4AEQV"
+        },
+        {
+          "name": "Microservices with Node.js and React.js",
+          "startDate": "07/2020",
+          "endDate": "10/2020",
+          "linkText": "bit.ly/2P1J6UM",
+          "href": "https://bit.ly/2P1J6UM"
+        }
+      ]
+    }
+  }
+}
